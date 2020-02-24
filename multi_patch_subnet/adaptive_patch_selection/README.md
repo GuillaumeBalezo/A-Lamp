@@ -28,4 +28,4 @@ Patches of images from the AVA Dataset are stored in the output-split in pickle 
 
 ## 
 
-\* This implementation is under MIT License, except for the algorithm used for computing saliency which is not to be used for commercial purposes. For more information, please refere to AdaptivePatchSelection_CodeDocumentation.pdf.
+\* This implementation is under MIT License, except for the algorithm used for computing saliency ("Saliency Detection via Graph-Based Manifold Ranking") which is not to be used for commercial purposes.
