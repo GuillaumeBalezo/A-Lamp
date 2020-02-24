@@ -24,7 +24,7 @@ Run **./patch_selection.py \<images folder\> \<output folder\>**.
 
 ## Results on the AVA Dataset
 
-Patches of images from the AVA Dataset are stored in the output-split in pickle files. For details, please refer to AdaptivePatchSelection_CodeDocumentation.pdf.
+Patches of images from the AVA Dataset are stored in the output-split directory in pickle files. Each chunk contains patches for 8517 images (around 250 000 in total). For details, please refer to AdaptivePatchSelection_CodeDocumentation.pdf.
 
 ## 
 
