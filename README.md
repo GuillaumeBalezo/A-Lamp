@@ -14,4 +14,4 @@ In addition, is included the Exploratory Data Analysis of the AVA Dataset.
 
 Work done as part of PRIM project. 
 
-Team members : Fabiola Espinoza, Guillaume Balezo & Simon Alberegl
+Team members : Fabiola Espinoza, Guillaume Balezo & Simon Albergel
